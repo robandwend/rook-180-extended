@@ -18,9 +18,9 @@ Each hotend will need it's own wiring, and will carry the power for the cooling 
 The hotend design is almost finished - see images. This required squeezing in the magnets, and some position-locking pyramids, I've weight tested the design using simple blocks with the magnets/pyramids and weights etc, and the connection appears very stable and strong. 
 
 
-![Image](./Photos/Hotend3.JPG)
+![Image](./Photos/Hotend3.jpg)
 
-![Image](./Photos/Hotend4.JPG)
+![Image](./Photos/Hotend4.jpg)
 
 
 The design required me to add 4mm to the front length of the hotend and reducing the rear by 4 - thus keeping the part cooling correctly positioned.
