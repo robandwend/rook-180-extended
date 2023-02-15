@@ -52,3 +52,26 @@ This mount is specific to the extended 180, and replaces both the middle lower r
 A similar mount it available for an Orange PI 4 LTS based off the front middle brace - as seen in photo below.
 
 ![Image](./12864DisplayFront/IMG_2812.jpg)
+
+
+# MEX - Multi Extruder
+
+## Rear Hotend Storage Area 
+
+To allow for multi-extrude, a rear hotend storage area has been designed.
+
+See videos for design details
+* [link](https://www.youtube.com/watch?v=4AOfrqeOWYA) - MEX Development PT1
+* [link](https://youtu.be/aWfg_-3LOak) - MEX Development PT2
+* [link](https://youtube.com/shorts/aSd3smGOrIA) - MEX Hotend
+
+## Bowden Extruders
+
+Clip on bowden extruder mounts (for basic cheapest extruders) have been added
+
+![Image](./Photos/rearstorage.jpg)
+
+# Endstops
+## Z-Endstop
+
+![Image](./Photos/z-endstop.jpg)

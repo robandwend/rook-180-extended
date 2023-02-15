@@ -18,9 +18,9 @@ Each hotend will need it's own wiring, and will carry the power for the cooling 
 The hotend design is almost finished - see images. This required squeezing in the magnets, and some position-locking pyramids, I've weight tested the design using simple blocks with the magnets/pyramids and weights etc, and the connection appears very stable and strong. 
 
 
-![Image](./Photos/Hotend3.JPG)
+![Image](./Photos/Hotend3.jpg)
 
-![Image](./Photos/Hotend4.JPG)
+![Image](./Photos/Hotend4.jpg)
 
 
 The design required me to add 4mm to the front length of the hotend and reducing the rear by 4 - thus keeping the part cooling correctly positioned.
@@ -49,6 +49,26 @@ This is not specific to the extended 180
 
 This mount is specific to the extended 180, and replaces both the middle lower right braces, extending out to mount the Monster8.
 
-A similar mount it available for an Orange PI 4 LTS based off the front midd- as seen in photo below.
+A similar mount it available for an Orange PI 4 LTS based off the front middle brace - as seen in photo below.
 
 ![Image](./12864DisplayFront/IMG_2812.jpg)
+
+
+# Rear Hotend Storage Area (MEX - Multi Extruder)
+
+To allow for multi-extrude, a rear hotend storage area has been designed.
+
+See videos for design details
+* [link](https://www.youtube.com/watch?v=4AOfrqeOWYA) - MEX Development PT1
+* [link](https://youtu.be/aWfg_-3LOak) - MEX Development PT2
+* [link](https://youtube.com/shorts/aSd3smGOrIA) - MEX Hotend
+
+## Bowden Extruders
+
+Clip on bowden extruder mounts (for basic cheapest extruders) have been added
+
+![Image](./Photos/rearstorage.jpg)
+
+## Endstops
+
+z-endstop.jpg
