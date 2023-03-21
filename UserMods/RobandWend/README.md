@@ -83,6 +83,13 @@ Clip on bowden extruder mounts (for basic cheapest extruders) have been added
 
 ![Image](./Photos/rearstorage.jpg)
 
+Or you could use some Voron M4 Extruders
+
+* [voron design M4 Extruder](https://vorondesign.com/voron_m4)
+
+![Image](./Photos/m4_extruders.jpg)
+![Image](./Photos/m4_extruders2.jpg)
+
 ## Bambu bowden hotend
 
 Since the bambu hotend is quite cheap, and speedwise beats many expensive nozzles, like in my original Rook mods I've added a bambu hotend (for bowden). This has options for either a standard cooling far, or one of the smaller bambu size 2020 fans.
@@ -93,3 +100,14 @@ Since the bambu hotend is quite cheap, and speedwise beats many expensive nozzle
 ## Z-Endstop
 
 ![Image](./Photos/z-endstop.jpg)
+
+
+# Horseshoe Spool holder
+
+I chose to fit two horseshoe spoolholders to either side
+
+![Image](./Photos/horseshoe.jpg)
+
+From https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/LoganFraser/HorseshoeSpoolHolder 
+
+Note - for my specific spool size (195mm diameter) a resized STL is provided.
