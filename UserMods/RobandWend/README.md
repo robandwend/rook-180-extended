@@ -54,6 +54,12 @@ A similar mount it available for an Orange PI 4 LTS based off the front middle b
 ![Image](./12864DisplayFront/IMG_2812.jpg)
 
 
+# PI MOUNT
+
+There are actually two similar PI mounts available, initially I was using an orangepi 4 LTS, however due to problems getting the gpio working (as a secondary MCU) - I reverted to an raspberry-pi 4b 
+
+![Image](./photos/bracewithraspberrypi.jpg)
+
 # MEX - Multi Extruder
 
 ## Rear Hotend Storage Area 
@@ -65,11 +71,23 @@ See videos for design details
 * [link](https://youtu.be/aWfg_-3LOak) - MEX Development PT2
 * [link](https://youtube.com/shorts/aSd3smGOrIA) - MEX Hotend
 
+## Fan cooling and bl-touch
+
+The whole hotend has been reversed (so part cooling fan now at the front). The wiring for the part-cooling fan and the bl-touch remain on the x-carriage at all times. The 5015 adaptor has a small change to allow the wiring to be neatly attached. Current plan is to use a non-functioning piece of bowden to route these two wires to the board. The bl-touch wiring will be routed between the two x-rods.
+
+![Image](./Photos/5015Adaptor_with_wire_mount_mount.jpg)
+
 ## Bowden Extruders
 
 Clip on bowden extruder mounts (for basic cheapest extruders) have been added
 
 ![Image](./Photos/rearstorage.jpg)
+
+## Bambu bowden hotend
+
+Since the bambu hotend is quite cheap, and speedwise beats many expensive nozzles, like in my original Rook mods I've added a bambu hotend (for bowden). This has options for either a standard cooling far, or one of the smaller bambu size 2020 fans.
+
+![Image](./Photos/bambuhotend.jpg)
 
 # Endstops
 ## Z-Endstop
