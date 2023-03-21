@@ -106,7 +106,7 @@ Since the bambu hotend is quite cheap, and speedwise beats many expensive nozzle
 
 I chose to fit two horseshoe spoolholders to either side
 
-![Image](./Photos/horseshoe.jpg)
+![Image](./Photos/horseshoe.JPG)
 
 From https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/LoganFraser/HorseshoeSpoolHolder 
 
