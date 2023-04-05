@@ -111,3 +111,14 @@ I chose to fit two horseshoe spoolholders to either side
 From https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/LoganFraser/HorseshoeSpoolHolder 
 
 Note - for my specific spool size (195mm diameter) a resized STL is provided.
+
+# WIRING - TIDY
+
+I designed a simple wiring scaffold to help keep all the cables tidy.
+
+See [printables link](https://www.printables.com/model/443258-variable-size-scaffold-structure-to-aid-tidying-wi) 
+
+![Image](./Steps/SideMountedScaffold/IMG_2913.jpg)
+![Image](./Steps/SideMountedScaffold/IMG_2910.jpg)
+
+![Image]() 
